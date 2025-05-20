@@ -22,5 +22,5 @@ jobs:
 
       - name: Build with Maven
         run: 
-          cd my-app
+          cd "Json_App"
           mvn clean package
